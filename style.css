@@ -104,4 +104,15 @@ font-weight:bold ;
     background-color:rgb(38, 94, 110) ;
     padding: 1em;
 }
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    border-style:solid ;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 3px;
+    background-color:rgb(38, 94, 110) ;
+    padding: 1em;
+} 
 
