@@ -1,0 +1,107 @@
+
+
+.header {
+    display: flex;
+    background-image: linear-gradient(rgb(66, 64, 64),rgb(113, 110, 110));
+    flex-direction: column;
+    justify-content: space-around;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 2px;
+    padding: 1em;
+    
+    
+}
+.grid-item-1 {
+    background-image: linear-gradient(rgb(113, 102, 102),rgb(223, 195, 159));
+    display: flex;
+    background-color: coral;
+    flex-direction: column;
+    justify-content: space-between;
+    font-style:Serif;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 2px;
+    padding: 1em;
+    
+}
+.aboutMe {
+    background-image: linear-gradient(rgb(113, 102, 102),rgb(223, 195, 159));
+    display: flex;
+    background-color: coral;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 2px;
+    justify-content:space-evenly;
+    padding: 1em;
+}
+
+.grid-item-2 {
+    background-image: linear-gradient( rgb(243, 213, 173),rgb(146, 193, 231));
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 2px;
+    justify-content: space-around;
+    padding: 1em;
+   
+}
+
+.grid-item-3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: linear-gradient( rgb(243, 213, 173),rgb(146, 193, 231));
+
+    background-color: coral;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 2px;
+    padding: 1em;
+}
+
+.grid-item-4 {
+    background-image: linear-gradient( rgb(146, 193, 231),rgb(46, 107, 124));
+    background-color: coral;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 2px;
+    padding: 1em;
+}
+.grid-item-5 {
+    background-image: linear-gradient( rgb(146, 193, 231),rgb(46, 107, 124));
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: coral;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 2px;
+    padding: 1em;
+   
+    
+}
+.grid-item-2 > p {
+border-style:solid ;
+border-color: black;
+border-radius: 5px;
+border-width: 3px;
+background-color: rgb(82, 171, 171);
+padding: 1em;
+font-weight:bold ;
+}
+.projects {
+    border-style:solid ;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 3px;
+    background-color:rgb(38, 94, 110) ;
+    padding: 1em;
+}
+
